@@ -1,1 +1,0 @@
-alert("Im wroking. Im js")
