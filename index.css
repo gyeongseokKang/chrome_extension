@@ -6,6 +6,19 @@ h1{
 	color: white;
 }
 
+body{
+	color: #34495e;
+}
+
 .color{
 	color: ;
+}
+
+.form,
+.greetings{
+	display: none;
+}
+
+.showing{
+	display: block;
 }
