@@ -1,6 +1,6 @@
 # chrome_extension 
-## Momentum Clone Project
-## #Nomad Coder #바닐라 JS로 크롬 앱 만들기
+
+## #Nomad Coder #바닐라 JS로 크롬 앱 만들기 #Momentum Clone Project
 
 ### Feature
 ##### 1. Clock
